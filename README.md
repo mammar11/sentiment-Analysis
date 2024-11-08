@@ -121,6 +121,7 @@ Model	Accuracy	Precision	Recall	F1-Score
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | VADER | 0.78 | 0.80 | 0.75 | 0.77 |
 | RoBERTa | 0.85 | 0.83 | 0.88 | 0.85 |
+
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 ## Conclusion
