@@ -123,3 +123,39 @@ Model	Accuracy	Precision	Recall	F1-Score
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | VADER | 0.78 | 0.80 | 0.75 | 0.77 |
 | RoBERTa | 0.85 | 0.83 | 0.88 | 0.85 |
+## Conclusion
+The project successfully analyzed customer sentiment on Walmart and Amazon product reviews, highlighting key factors that influence customer satisfaction. The combination of traditional NLP techniques and transformer-based models allowed for a comprehensive analysis, demonstrating the importance of sentiment analysis for e-commerce platforms.
+## Getting Started
+
+### Prerequisites
+- Python 3.8+
+- Virtual Environment (optional)
+- Pip
+
+## Project Structure
+```css
+sentiment-analysis/
+│
+├── data/
+│   ├── walmart_reviews.csv
+│   ├── amazon_reviews.csv
+│
+├── notebooks/
+│   ├── EDA.ipynb
+│   ├── Sentiment_Analysis.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── vader_analysis.py
+│   ├── roberta_analysis.py
+│
+├── requirements.txt
+├── README.md
+└── LICENSE
+```
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Contact
+Mohammed Ammaruddin
+md.ammaruddin2020@gmail.com
