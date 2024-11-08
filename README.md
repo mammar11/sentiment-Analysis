@@ -122,7 +122,7 @@ Model	Accuracy	Precision	Recall	F1-Score
 | VADER | 0.78 | 0.80 | 0.75 | 0.77 |
 | RoBERTa | 0.85 | 0.83 | 0.88 | 0.85 |
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](C:\Users\Mohammed Ammaruddin\Pictures\Screenshots\Screenshot 2024-11-08 214621.png "San Juan Mountains")
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 ## Conclusion
 The project successfully analyzed customer sentiment on Walmart and Amazon product reviews, highlighting key factors that influence customer satisfaction. The combination of traditional NLP techniques and transformer-based models allowed for a comprehensive analysis, demonstrating the importance of sentiment analysis for e-commerce platforms.
